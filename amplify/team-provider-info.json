@@ -1,0 +1,22 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hamkiotlocalv1-1-local-151341-authRole",
+            "UnauthRoleArn": "arn:aws:iam::403540845132:role/amplify-hamkiotlocalv1-1-local-151341-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::403540845132:role/amplify-hamkiotlocalv1-1-local-151341-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-hamkiotlocalv1-1-local-151341-deployment",
+            "UnauthRoleName": "amplify-hamkiotlocalv1-1-local-151341-unauthRole",
+            "StackName": "amplify-hamkiotlocalv1-1-local-151341",
+            "StackId": "arn:aws:cloudformation:eu-central-1:403540845132:stack/amplify-hamkiotlocalv1-1-local-151341/2f50c1a0-392b-11ea-a41a-0ac5bdeb388c",
+            "AmplifyAppId": "d2afuttv3e1ekp"
+        },
+        "categories": {
+            "auth": {
+                "hamkiotlocalv11521a66a5": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"992091818119-uae9rgsmvf3sfin17b331n086ked0uev.apps.googleusercontent.com\",\"client_secret\":\"KAO-efxkrsoYALvwfVN68wVD\"}]"
+                }
+            }
+        }
+    }
+}
